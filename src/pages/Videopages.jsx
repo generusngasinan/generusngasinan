@@ -73,7 +73,7 @@ function Videopages() {
                 className="w-full h-[300px] max-w-full pt-4 shadow-xl"
               />
             </div>
-             <div className="flex box items-center justify-items-center  bg-white h-[355px] w-[375px] md:w-[650px] px-2 pb-4 rounded-sm ">
+            <div className="flex box items-center justify-items-center  bg-white h-[355px] w-[375px] md:w-[650px] px-2 pb-4 rounded-sm ">
               <ReactPlayer
                 url="https://youtube.com/shorts/K4gtMrn0Ka8?si=S4ST6Dqb_zmInJww"
                 className="w-full h-[300px] max-w-full pt-4 shadow-xl"
@@ -117,7 +117,4 @@ function Videopages() {
   );
 }
 
-
 export default Videopages;
-
-
